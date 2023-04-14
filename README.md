@@ -20,10 +20,12 @@
 -->
 ## about me!
 software developer or cybersecurity analyst?  
-beginner (mostly self-taught) coder still trying to find the right path for me!
+beginner (mostly self-taught) coder still trying to find the right path for me!</p> 
 
-i'm **19 years old** living in the east valley just outside of **phoenix, arizona**! 🏜️
+i'm **19 years old** living in the east valley just outside of **phoenix, arizona**! 🏜️ 
 
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2o9uq4wychz2lhc5z2nmvu934&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
 <h2>
   languages & tools 💻
@@ -53,7 +55,17 @@ __web developer bootcamp 2023 (colt steele)__ : february 2023-present
 __free code camp responsive web design certification__ : march 2023-present  
 __harvard cs50 introduction to computer science__ : february 2023-present  
 #
-![edas' GitHub stats](https://github-readme-stats.vercel.app/api?username=matchajoon&show_icons=true&theme=nightowl) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDljZTg5YzFiNTAxYjE3YWYyMTkwY2RlODQ1ZTU0MzcwMGNkMjk3NyZjdD1z/KE4LRg48nL60InfHMo/giphy.gif" width="200" height="200" align="right" />
+
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2o9uq4wychz2lhc5z2nmvu934&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
+
+<!-- figure out how to get this div to work in our favor so that spotify & the stats can be inline but on separate sides of the margin --> <div class="spotify"></div> 
+
+![edas' GitHub stats](https://github-readme-stats.vercel.app/api?username=matchajoon&show_icons=true&theme=nightowl)
+
+
+<!-- boba gif main 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDljZTg5YzFiNTAxYjE3YWYyMTkwY2RlODQ1ZTU0MzcwMGNkMjk3NyZjdD1z/KE4LRg48nL60InfHMo/giphy.gif" width="200" height="200" align="right" />-->
 
 <!-- boba gif alternative link
 ![boba gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDljZTg5YzFiNTAxYjE3YWYyMTkwY2RlODQ1ZTU0MzcwMGNkMjk3NyZjdD1z/KE4LRg48nL60InfHMo/giphy.gif)-->
