@@ -41,8 +41,7 @@ i'm **19 years old** living in the east valley just outside of **phoenix, arizon
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
   </p>
-
-
+ 
 education | certificates | online bootcamps + programs
 --
 __high school diploma__ : august 2017-may 2021  
@@ -50,9 +49,15 @@ __certificate in fundamentals of cybersecurity__ : august 2021-may 2022
 __web developer bootcamp 2023 (colt steele)__ : february 2023-present  
 __free code camp responsive web design certification__ : march 2023-present  
 __harvard cs50 introduction to computer science__ : february 2023-present  
+#
+![edas' GitHub stats](https://github-readme-stats.vercel.app/api?username=matchajoon&show_icons=true&theme=nightowl) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDljZTg5YzFiNTAxYjE3YWYyMTkwY2RlODQ1ZTU0MzcwMGNkMjk3NyZjdD1z/KE4LRg48nL60InfHMo/giphy.gif" width="200" height="200" align="right" />
 
-
-  
+<!-- boba gif alternative link
+![boba gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDljZTg5YzFiNTAxYjE3YWYyMTkwY2RlODQ1ZTU0MzcwMGNkMjk3NyZjdD1z/KE4LRg48nL60InfHMo/giphy.gif)-->
+ 
+ 
+ <!-- Top Langs Link
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matchajoon&layout=compact)](https://github.com/matchajoon/github-readme-stats) -->
   </main>
 
   
