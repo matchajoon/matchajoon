@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,12,12,12,14,19,20,21,22,24,24&height=200&section=header&text=welcome%20to%20my%20[coding]%20universe&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,12,12,12,14,19,20,21,22,24,24&height=200&section=header&text=welcome%20to%20my%20[coding]%20universe&fontSize=50&animation=twinkling) 
+
+<!-- stars gif ie
+<img src="https://static.wixstatic.com/media/0c3be1_16c30c7bf28143308f84d5563a5c9220.gif"> -->
 
 <!--idx colors i want: 2 9? 12 12 12 14 19 20 21 22 24 24 -->
 
