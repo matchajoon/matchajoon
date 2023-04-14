@@ -1,5 +1,5 @@
-# welcome to my [coding] universe ☄️🪐
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=welcome%20to%20my%20[coding]%20universe&fontSize=50&animation=twinkling)
+
 
 ***"i have not failed, i just found 10,000 ways that won't work"***
 
