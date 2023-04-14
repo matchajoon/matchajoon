@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=welcome%20to%20my%20[coding]%20universe&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,12,12,12,14,19,20,21,22,24,24&height=200&section=header&text=welcome%20to%20my%20[coding]%20universe&fontSize=50&animation=twinkling)
 
-<p align="center">
-  <b><i>"i have not failed, i just found 10,000 ways that won't work"</i></b>
-  </p>
+<!--idx colors i want: 2 9? 12 12 12 14 19 20 21 22 24 24 -->
+
+<main>
+<h3 align="center">
+ "i have not failed, i just found 10,000 ways that won't work"
+  </h3>
+
+  
 
 <!-- figure out how to add currently listening to spotify stats & github stats
 
@@ -47,6 +52,11 @@ __free code camp responsive web design certification__ : march 2023-present
 __harvard cs50 introduction to computer science__ : february 2023-present  
 
 
+  
+  </main>
+
+  
+  
 
 
 <!--
